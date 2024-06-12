@@ -22,6 +22,9 @@ After deploying token, we will get different variables which we have created and
 
 Ensure your contract is safe and secure to prevent from vulnerabilities. provide documentation for your token to help other developers understand its functionality.
 
+To run the code you can visit: https://remix.ethereum.org/
+In this site, you can go under default_workspace and open the file MYFIRSTTOKEN.sol to see the code and run it.
+
 # Authors
 Name- Sakshi Keshri 
 Contact- keshrisakshi073@gmail.com
